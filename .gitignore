@@ -1,0 +1,7 @@
+# Idea
+.idea
+
+# Gardle
+.gradle
+build
+/settings.gradle
